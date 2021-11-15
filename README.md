@@ -1,7 +1,5 @@
 <h1>Calculadora Simples em JavaScript</h1>
 
-<hr>
-
 <p>Calculadora que executa as quatro operações aritméticas básicas, desenvolvida em Javascript.</p> 
 
 <h2>Professor do Tutorial</h2>
